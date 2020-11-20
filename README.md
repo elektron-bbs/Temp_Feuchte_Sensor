@@ -1,5 +1,5 @@
-# Temp_Feuchte_Sensor
-Funk-Temperatur- und Feuchte-Sensor
+# Funk-Temperatur- und Feuchte-Sensor
+
 Dieser Funk-Sensor überträgt die Werte der Temperatur und relativen Feuchte eines Sensors vom Typ SHT31.
 
 Verwendet wird ein Funkprotokoll der WS2000/WS7000-Serie. Dieses Protokoll kann vom SIGNALduino oder auch CUL empfangen und in FHEM dekodiert werden.
